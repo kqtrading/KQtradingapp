@@ -1,0 +1,2 @@
+# KQtradingapp
+Khu ung dung
